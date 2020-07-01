@@ -1,0 +1,16 @@
+2020-06-29 13:52:12.031 [main] INFO  com.automation.selenium.Pages.ML_login - Login does not exist
+2020-06-29 13:52:32.114 [main] INFO  com.automation.selenium.Pages.ML_login - Login is successfull
+2020-06-29 13:52:32.332 [main] INFO  com.automation.selenium.Pages.CreateEstimate - Default page open
+2020-06-29 13:52:42.647 [main] INFO  com.automation.selenium.Pages.CreateEstimate - Value selected
+2020-06-29 13:52:44.938 [main] INFO  com.automation.selenium.Pages.CreateEstimate - Value selected
+2020-06-29 13:52:46.171 [main] INFO  com.automation.selenium.Pages.CreateEstimate - Value selected
+2020-06-29 13:53:02.505 [main] INFO  com.automation.selenium.Pages.ScenarioCreationPage - Scenario name entered
+2020-06-29 13:53:02.648 [main] INFO  com.automation.selenium.Pages.ScenarioCreationPage - Start Date entered
+2020-06-29 13:53:02.808 [main] INFO  com.automation.selenium.Pages.ScenarioCreationPage - Percent radio button selected
+2020-06-29 13:53:02.980 [main] INFO  com.automation.selenium.Pages.ScenarioCreationPage - Percentage entered 10
+2020-06-29 13:53:03.283 [main] INFO  com.automation.selenium.Pages.ScenarioCreationPage - Clicked on the save scenarios button
+2020-06-29 13:53:32.630 [main] INFO  com.automation.selenium.TestProject.CreateEstimateFF - Estimate number created:236205
+2020-06-29 13:53:38.281 [main] INFO  com.automation.selenium.Pages.ScenarioCreationPage - clicked on create project button
+2020-06-29 13:55:05.258 [main] INFO  com.automation.selenium.TestProject.CreateEstimateFF - Created Project url: https://app.mavenlink.com/workspaces/31814625
+2020-06-29 13:55:05.793 [main] INFO  com.automation.selenium.TestProject.BaseClass - close the driver
+2020-06-29 13:55:06.531 [main] INFO  com.automation.selenium.TestProject.BaseClass - quit the driver
